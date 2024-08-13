@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    font-family: "poppin", sans-serif;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.list{
+    color: #2E2E2E;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    font-weight: 600;
+    font-size: 16px;
+    gap: 24px;
+}
+.login_btn{
+    background-color: #D01C28;
+    color: white;
+    border: none;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 16px;
+}
+.hero_p2{
+    font-size: 16px;
+    color: gray;
+}
+.hero{
+    margin-left: 216px;
+    gap: 36px;
+    width: 1125px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.icon_div{
+    display: flex;
+    gap: 16px;
+    margin-top: 10px;
+}
+.shop{
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.2px;
+    border: none;
+    color: white;
+    background-color: #D01C28;
+    padding: 16px;
+}
+.btn{
+    display: flex;
+    gap: 36px;
+}
+.cat{
+    border: 1px solid gray;
+    color: black;
+    background-color: white;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29.2px;
+    padding: 16px;
+}
+h1{
+    font-size: 85px;
+    font-weight: 800;
+    line-height: 90px;
+}
+.img{
+    width: 530px;
+}
+.hero_p{
+    color: GRAY;
+    font-size: 16px;
+    font-weight: 600;
+    line-height:24px;
+}
